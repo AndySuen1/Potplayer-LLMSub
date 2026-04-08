@@ -49,6 +49,12 @@ qwen2.5:7b&http://127.0.0.1:11434/v1/chat/completions&请保留人名不翻译
 
 填写对应服务的 API Key。使用本地 Ollama 时可填写任意非空字符串，如 `ollama`。
 
+<img src="https://private-notes.oss-cn-beijing.aliyuncs.com/undefinedimage-20260409022819148.png" alt="image-20260409022819148" style="zoom: 33%;" /><img src="https://private-notes.oss-cn-beijing.aliyuncs.com/undefinedimage-20260409022929573.png" alt="image-20260409022929573" style="zoom: 50%;" /><img src="https://private-notes.oss-cn-beijing.aliyuncs.com/undefinedimage-20260409023441134.png" alt="image-20260409023441134" style="zoom:50%;" />
+
+
+
+
+
 ## 默认翻译行为
 
 - 目标语言：中文

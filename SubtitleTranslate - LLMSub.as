@@ -154,7 +154,7 @@ string GetLoginTitle()
 
 string GetLoginDesc()
 {
-	return "Input model&api_url and API key";
+	return "Input model & api_url & prompt and API key";
 }
 
 string GetUserText()
